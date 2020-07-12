@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: D4_HeartPath
+  m_EditorClassIdentifier: 
+  storyText: 'You just manage to get past the fan blade, slamming into the vent wall
+    at the other side. The vent leads to a chute that slopes down steeply. With nowhere
+    else to go you slide down, picking up speed as you go...
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 97db4b03c555b42a3a9a83574e48039b, type: 2}
+  reps: 0

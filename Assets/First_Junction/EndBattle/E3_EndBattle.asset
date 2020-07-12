@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: E3_EndBattle
+  m_EditorClassIdentifier: 
+  storyText: '"HA HA HA. YOU HAVE SPIRIT. BUT YOUR EFFORTS ARE FUTILE." Mysterio
+    raises both hands and forks of lightening shoot forth, a wave of electricity
+    darting along the floor towards you.
+
+
+    1. Press yourself against the wall
+    to avoid the wave.
+
+
+    2. Leap over the wave and run towards Mysterio.'
+  nextStates:
+  - {fileID: 11400000, guid: d829a9acfb9a94523be10bbdc6d675e7, type: 2}
+  - {fileID: 11400000, guid: 8357fd4152057475a8576b5401c56580, type: 2}
+  reps: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: D3_HeartPath
+  m_EditorClassIdentifier: 
+  storyText: 'You balance carefully, one foot in front of the other as the wind buffets
+    you constantly upsetting your balance. After walking in the darkness you see
+    a pinprick of light ahead of you. As it gets larger, the wind intensifies, getting
+    stronger and stronger with each passing step. You near the doorway when the wind
+    overwhelms you knocking you sideways.You flail your arms, managing to grab the
+    beam and wrap yourself around it. You crawl along the beam reaching the light
+    and collapsing on the floor of the room. Shaken and exhausted you look around.
+    The room is circular. A rope ladder leads down a hole in the centre. A razor
+    sharp fan blade rotates in front of a vent directly opposite the entrance.
+
+
+    1.
+    Descend the rope ladder.
+
+
+    2. Dive through the gap in the fan blade. (50/50
+    death chance?)'
+  nextStates:
+  - {fileID: 11400000, guid: d829a9acfb9a94523be10bbdc6d675e7, type: 2}
+  - {fileID: 11400000, guid: 2d44a6465f8384a5c95ab737bc1e4a4f, type: 2}
+  reps: 0

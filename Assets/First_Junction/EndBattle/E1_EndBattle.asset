@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: E1_EndBattle
+  m_EditorClassIdentifier: 
+  storyText: 'You emerge into a long glass hall. Floating at the far end is Mysterio,
+    raised on a cloud of smoke. "SO YOU HAVE EMERGED ALIVE." He booms, "IMPRESSIVE.
+    HOWEVER NOW YOU FACE ME DIRECTLY, AND YOUR CHANCES OF VICTORY ARE ZERO." He raises
+    his left hand and a ball of glowing energy shoots down the hall towards you.
+
+
+    1.
+    Sprint down the hall and dodge right.
+
+
+    2. Sprint down the hall and dodge
+    left.'
+  nextStates:
+  - {fileID: 11400000, guid: d829a9acfb9a94523be10bbdc6d675e7, type: 2}
+  - {fileID: 11400000, guid: 0f19aff9915dc49c4b680e7121882d38, type: 2}
+  reps: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: F2_WItPath
+  m_EditorClassIdentifier: 
+  storyText: 'The door leads directly into an identical room. Again you hear your
+    voice: "Either both of these doors read true statements or both read false".
+
+
+    1.
+    "At least one of these doors leads to your goal"
+
+
+    2. "The other door leads
+    to the void."'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: ff9474464f69341379eff868b0bf4c96, type: 2}
+  reps: 0

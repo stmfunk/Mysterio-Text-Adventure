@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: B6_NoReturn
+  m_EditorClassIdentifier: 
+  storyText: 'You shimmy into the narrow mirrored opening. Around you everywhere
+    you see your own face pressed against you. You struggle to breath, realising
+    you are sealed in. Panicking you try to return the way you came but realise you
+    are trapped. Slowly your mind descends into darkness as a the mirrored tomb clouds
+    with fog.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: d829a9acfb9a94523be10bbdc6d675e7, type: 2}
+  reps: 0

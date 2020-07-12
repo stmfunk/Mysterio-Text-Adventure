@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: B4_Narrow
+  m_EditorClassIdentifier: 
+  storyText: 'The opening leads to a corridor with a jagged path with sharp turns
+    blocking your view as it extends. You follow the corridor but as you venture
+    forward the passage feels more and more constricting, become tighter and tighter
+    until you are brushing your shoulder against either side. You come to another
+    turn and the path ahead is too narrow to walk straight. You''ll have to shuffle
+    sideways through.
+
+
+    1. Enter the narrow channel
+
+
+    2. Head back'
+  nextStates:
+  - {fileID: 11400000, guid: 1c2b72d1dca6b4000a30b92b4b5e3dfa, type: 2}
+  - {fileID: 11400000, guid: 1771d6079836c42b8bf1e4a7f6dd6cd2, type: 2}
+  reps: 0

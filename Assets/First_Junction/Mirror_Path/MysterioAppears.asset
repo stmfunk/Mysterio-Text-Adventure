@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: MysterioAppears
+  m_EditorClassIdentifier: 
+  storyText: '"YOU ARE IN THE PRESENCE OF THE GREAT MYSTERIO, ALL POWERFUL MAGICIAN
+    AND SORCERER SUPREME! YOU HAVE TRESPASSED IN MY REALM OF THE SURREAL AND NOW
+    MY POWERS WILL TEST YOU UNTIL YOU ARE LEFT A HAUNTED WRAITH!". The face vanishes
+    in a loud flash, and the mirrors once again shows your face.
+
+
+    1. Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 1771d6079836c42b8bf1e4a7f6dd6cd2, type: 2}
+  reps: 0

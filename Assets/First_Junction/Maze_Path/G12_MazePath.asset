@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: G12_MazePath
+  m_EditorClassIdentifier: 
+  storyText: "XII\nThe next room has two paths out. One leads to the left. The other
+    path leads to the right.                                 \n1. Take the left path\n2.
+    Take the right path"
+  nextStates:
+  - {fileID: 11400000, guid: e0ff360915ff74fe18c78114dfdb13a6, type: 2}
+  - {fileID: 11400000, guid: 2f14c92dcc4bb48c798235793b57a6c7, type: 2}
+  reps: 0

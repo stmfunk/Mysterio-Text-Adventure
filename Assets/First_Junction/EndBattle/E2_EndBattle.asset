@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: E2_EndBattle
+  m_EditorClassIdentifier: 
+  storyText: 'You dodge the attack and stand panting. Mysterio raises his right hand
+    and another ball of energy shoots down the hall.
+
+
+    1. Sprint down the hall
+    and dodge right.
+
+
+    2. Sprint down the hall and dodge left.'
+  nextStates:
+  - {fileID: 11400000, guid: dfc518d2eda684d54b637c736e19c4c2, type: 2}
+  - {fileID: 11400000, guid: d829a9acfb9a94523be10bbdc6d675e7, type: 2}
+  reps: 0

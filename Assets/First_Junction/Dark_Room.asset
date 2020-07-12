@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36182d0b4f7f14eaaa8cf2ead25b4b85, type: 3}
+  m_Name: Dark_Room
+  m_EditorClassIdentifier: 
+  storyText: "You enter a dark room. A pinprick of light grows into a glowing orb
+    in the centre of the room. A booming voice fills the room, vibrating everything
+    around and within you. \n\n\"YOU ARE IN THE PRESENCE OF THE GREAT MYSTERIO, ALL
+    POWERFUL MAGICIAN AND SORCERER SUPREME! YOU HAVE TRESPASSED IN MY INFINITE MAZE
+    AND NOW MY MASTERY OF SPACE AND TIME WILL TEST YOU UNTIL YOU ARE LEFT A HAUNTED
+    WRAITH!\". The face vanishes in a loud flash, and darkness once again envelopes
+    you. A dim glow illuminates the entrance to the maze.\n\n1. Enter the maze\n\n2.
+    Head Back"
+  nextStates:
+  - {fileID: 11400000, guid: 035830dd2d41849a8b0c0e2a8800ae1a, type: 2}
+  - {fileID: 11400000, guid: 1771d6079836c42b8bf1e4a7f6dd6cd2, type: 2}
+  reps: 0

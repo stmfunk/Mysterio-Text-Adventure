@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{959F35EE-141D-C3FC-A399-909C1785F093}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/First_Junction/Mirror_Path/Will_Path/G6_WillPath.asset">
+    <Files>
+      <File FileName="Assets/First_Junction/Mirror_Path/MysterioAppears.asset" Line="1" Column="1" />
+      <File FileName="Assets/AdventureGame.cs" Line="30" Column="14" />
+      <File FileName="Assets/State.cs" Line="1" Column="3" />
+      <File FileName="Assets/First_Junction/Mirror_Path/Will_Path/G6_WillPath.asset" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Text1010" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="First_Junction" expanded="True">
+                <Node name="Mirror_Path" expanded="True" />
+              </Node>
+              <Node name="State.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac60fd06-405d-475b-a0a2-27efb7b1a86c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
